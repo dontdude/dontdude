@@ -99,7 +99,7 @@ hobbies: ["Anime", "Cinema", "Philosophy", "Gaming", "Science"]
   <a href="https://codeforces.com/profile/dontdude">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dontdude&theme=dark" alt="Codeforces Stats" />
   </a>
-  <a href="https://github.com/dontdude/github-readme">
+  <a href="https://leetcode.com/dontdude/">
     <img src="https://leetcode-stats-six.vercel.app/api?username=dontdude&theme=dark" alt="dontdude's LeetCode stats" />
   </a>
 </div>
