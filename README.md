@@ -123,7 +123,7 @@ hobbies: ["Anime", "Cinema", "Philosophy", "Gaming", "Science"]
 <br>
 
 <!-- My published blogs -->
-<h1 align="center"> 📃 My published Blogs</h1>
+<h1 align="center"> 📃 My recent Blogs</h1>
 <p align="center">
   <a href="https://medium.com/@imchandan1947">
     <img src="https://github-readme-medium.vercel.app/?username=imchandan1947&limit=1&bg=151515&text=#9f9f9f" alt="My Medium blogs" />
