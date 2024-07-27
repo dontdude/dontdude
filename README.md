@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm  <b>Chandan aka dontdude</b>, a Fullstack developer from
-<b>Noida, India</b>, currently working as Software Engineer Intern at <b>LongShot AI</b>. 
+<b>Noida, India</b>, currently working as SDE 1 <b>Tata 1mg</b>. 
 
 
 <p align="center">
@@ -70,6 +70,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Software Development Engineer 1 | Tata 1mg",
     "Software Engineer Intern | LongShot AI",
     "Frontend Developer Intern | LongShot AI",
   ]
