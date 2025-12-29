@@ -4,6 +4,12 @@
 <p>Welcome to my page! </br> I'm  <b>Chandan aka dontdude</b>, a Fullstack developer from
 <b>Noida, India</b>, currently working as SDE 1 <b>Tata 1mg</b>. 
 
+<p align="center">
+  <a href="https://dontdude.vercel.app/resume" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/%20Resume-View%20Here-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge" />
+  </a>
+</p>
+
 
 <!-- <p align="center">
 <img src="https://profile-counter.glitch.me/dontdude/count.svg" />
@@ -68,8 +74,8 @@ education:
 
 fields_of_interests:
   [
-    "Frontend Development",
     "Backend Development"
+    "Frontend Development",
     "Full Stack AI",
   ]
 technical_background:
@@ -79,9 +85,9 @@ technical_background:
     "Frontend Developer Intern | LongShot AI",
   ]
   
-currently_learning: ["Full stack AI"]
+currently_learning: ["Golang"]
 2024 Goals: ["I'm aiming to join a top-tier team where I can learn from seasoned professionals and make a significant impact. Let's make exceptional things happen together."]
-hobbies: ["Anime", "Cinema", "Philosophy", "Gaming", "Science"]
+hobbies: ["Building", "Philosophy", "Science"]
 ```
   
 <br>
@@ -91,7 +97,7 @@ hobbies: ["Anime", "Cinema", "Philosophy", "Gaming", "Science"]
 <p align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,vue,nodejs,redux,tailwind,express,mongodb,python,jest,postman,vscode,git,docker,aws,bash,androidstudio,devto,go,linux,mysql,babel,html,css" />
+    <img src="https://skillicons.dev/icons?i=go,js,ts,cpp,react,nextjs,vue,nodejs,redux,tailwind,express,mongodb,python,postman,git,docker,aws,linux,mysql,babel,html,css" />
   </a>
 </p>
 </p>
@@ -129,8 +135,8 @@ hobbies: ["Anime", "Cinema", "Philosophy", "Gaming", "Science"]
 <!-- My published blogs -->
 <h1 align="center"> 📃 Knowledge Uploads</h1>
 <p align="center">
-  <a href="https://medium.com/@imchandan1947">
-    <img src="https://github-readme-medium.vercel.app/?username=imchandan1947&limit=1&bg=151515&text=#9f9f9f" alt="My Medium blogs" />
+  <a href="https://medium.com/@dontdude">
+    <img src="https://github-readme-medium.vercel.app/?username=dontdude&limit=1&bg=151515&text=#9f9f9f" alt="My Medium blogs" />
   </a>
 </p>
 
